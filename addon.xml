@@ -12,10 +12,10 @@
   </extension>
   <extension point="kodi.addon.metadata">
     <platform>all</platform>
-    <summary lang="en">Open CinemaVision player from video library</summary>
-    <description lang="en">Play your queued movies with the CinemaVision theater experience from your library</description>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <forum>http://cinemavision.tv/forums/</forum>
+    <summary lang="en">Run the CinemaVision experience from your video library.</summary>
+    <description lang="en">Easily play your movies using the CinemaVision add-on! Launch directly into the CinemaVision theater experience from the context menu in your library.</description>
+    <license></license>
+    <forum>http://www.cinemavision.tv/forums/</forum>
     <website>http://www.cinemavision.tv/</website>
     <source>https://github.com/CinemaVision/context.cinemavision</source>
   </extension>
