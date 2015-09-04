@@ -2,7 +2,7 @@ import xbmc
 
 
 def main():
-    pass
+    xbmc.executebuiltin('RunScript(script.cinemavision,experience)')
 
 if __name__ == '__main__':
     main()
