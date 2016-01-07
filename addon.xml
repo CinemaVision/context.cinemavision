@@ -14,8 +14,8 @@
     <platform>all</platform>
     <summary lang="en">Run the CinemaVision experience from your video library.</summary>
     <description lang="en">Easily play your movies using the CinemaVision add-on! Launch directly into the CinemaVision theater experience from the context menu in your library.</description>
-    <disclaimer lang="en">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Visit the website for details.</disclaimer>
-    <license>Creative Commons Attribution-ShareAlike 4.0 International</license>
+    <disclaimer lang="en">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Visit the website for details.</disclaimer>
+    <license>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</license>
     <forum>http://www.cinemavision.tv/forums/</forum>
     <website>http://www.cinemavision.tv/</website>
     <source>https://github.com/CinemaVision/context.cinemavision</source>
