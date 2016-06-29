@@ -7,7 +7,7 @@
   <extension point="kodi.context.item" library="addon.py">
     <item>
       <label>32000</label>
-      <visible>Container.Content(movies)</visible>
+      <visible>Container.Content(movies) | Container.Content(episodes) | Container.Content(seasons) | Container.Content(tvshows) | Container.Content(playlists)</visible>
     </item>
   </extension>
   <extension point="kodi.addon.metadata">
