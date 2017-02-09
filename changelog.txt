@@ -1,5 +1,9 @@
 Changelog for CinemaVision Launcher
 
+[- 1.0.1 -]
+
+- fix:     Was showing on parent folder
+
 [- 1.0.0 -]
 
 Initial release
